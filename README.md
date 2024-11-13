@@ -1,2 +1,2 @@
 # Git-Project
-hello
+This is my git project
