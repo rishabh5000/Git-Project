@@ -36,7 +36,7 @@ void printArray(int arr[], int size){
 }
 
 int main(){
-    int arr[] = { 24,12,34,43,45,54,60 };
+    int arr[] = { 24,12,45,54,60 };
     int n = sizeof(arr) / sizeof(arr[0]);
     bubbleSort(arr, n);
     printf("Sorted array: \n");
